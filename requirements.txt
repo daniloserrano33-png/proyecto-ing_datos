@@ -1,0 +1,4 @@
+pandas
+confluent-kafka
+psycopg2-binary
+sqlalchemy
